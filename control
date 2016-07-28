@@ -1,0 +1,10 @@
+Package: com.halston696.blackappswitcher
+Name: Custom Switcher Background
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, firmware (>= 9.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Custom App Switcher Background
+Maintainer: Wylliam Altman <halston696@gmail.com>
+Author: Wylliam Altman <halston696@gmail.com>
+Section: Tweaks
+Dev:halston696
