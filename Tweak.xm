@@ -1,3 +1,5 @@
+// Custom Switcher Background © 2016 Wylliam Altman (@halston696)
+
 #import <libcolorpicker.h>
 
 static NSString *const CSBSettings = @"/var/mobile/Library/Preferences/com.halston696.customswitcherbackground.plist";

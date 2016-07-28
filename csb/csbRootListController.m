@@ -1,3 +1,5 @@
+// Custom Switcher Background © 2016 Wylliam Altman (@halston696)
+
 #include "csbRootListController.h"
 #import <Social/Social.h>
 
